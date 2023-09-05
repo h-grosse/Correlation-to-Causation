@@ -1,1 +1,13 @@
 This repository contains all R scripts that were used in the making of the Master's Thesis "From Correlation to Causation: A Guide to Fairness in Machine Learning".
+
+The paper focuses on 3 datasets:
+
+COMPAS -> compas-scores-two-years.csv (https://github.com/propublica/compas-analysis/tree/master)
+
+ADULT -> adult.data (http://archive.ics.uci.edu/dataset/2/adult)
+
+Communities & Crime -> communities.data (http://archive.ics.uci.edu/dataset/183/communities+and+crime)
+
+Statlog (German Credit) -> german.data (http://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
+
+
