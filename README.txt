@@ -1,1 +1,0 @@
-This repository contains all R scripts that were used in the making of the Master's Thesis "From Correlation to Causation: A Guide to Fairness in Machine Learning".
