@@ -6,8 +6,6 @@ COMPAS -> compas-scores-two-years.csv (https://github.com/propublica/compas-anal
 
 ADULT -> adult.data (http://archive.ics.uci.edu/dataset/2/adult)
 
-Communities & Crime -> communities.data (http://archive.ics.uci.edu/dataset/183/communities+and+crime)
-
 Statlog (German Credit) -> german.data (http://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
 
-
+Bonus (not included in paper): Communities & Crime -> communities.data (http://archive.ics.uci.edu/dataset/183/communities+and+crime)
